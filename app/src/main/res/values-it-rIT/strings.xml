@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Progetto finale</string>
+    <string name="character_name">KSI</string>
+    <string name="character_game">Abbonati: 23,8 milioni</string>
+    <string name="character_description">KSI, nome completo Olajide Olayinka Williams Olatunji, è uno youtuber, cantante, pugile,             e imprenditore. È il più grande membro del gruppo Sidemen, spesso chiamato             il capogruppo. Ha guadagnato la sua fama su YouTube giocando a una serie di videogiochi             chiamato Fifa, e da lì è entrato nell\'industria musicale e, successivamente, nella boxe. Ha inoltre             ha iniziato a vendere la propria marca di bevande e vestiti.</string>
+    <string name="character_share">Condividere</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="titleReg">Register</string>
+    <string name="emailReg">Enter new E-mail</string>
+    <string name="passwordReg">Enter new password</string>
+    <string name="passwordConfirmReg">Confirm password</string>
+    <string name="backButton">Back</string>
+    <string name="logout">Logout</string>
+</resources>

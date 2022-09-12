@@ -1,0 +1,34 @@
+<string-array name="sidemen_descriptions">
+        <item>KSI, full name Olajide Olayinka Williams Olatunji, is a Nigerian youtuber, singer, boxer,
+        and entrepreneur. He is the biggest member of the Sidemen group, often referred to as
+        "the leader" of the group. He gained his fame on YouTube playing a video game series
+        called Fifa, and from there he got into the music industry, and later, boxing. He also
+        started selling his own brand of drinks and clothes.</item>
+        <item>Miniminter, full name Simon Minter, is a English youtuber and internet personality.
+        He is one of the bigger members of the sidemen group, being a close friend of KSI.
+        He is so close to KSI in fact, that memes appeared of them being "secret lovers".
+        Those memes are just memes however, because Miniminter is currently engaged to Talia Mar, who
+        is also a youtuber and a internet personality.</item>
+        <item>W2S, full name Harold "Harry" Lewis, is a English/French youtuber, comedian and
+        internet personality. He is the second biggest member of the sidemen. He also gained his
+        popularity by playing a video game series Fifa, and also opening Fifa packs and having
+        insane reactions when getting players that are rare and worth a lot of real world money.</item>
+        <item>Behzinga, full name Ethan Leigh Payne, is a English youtuber, streamer and internet
+        personality. He is a co-founder of the sidemen group. He gained his popularity from his
+        fitness and sports videos. He went through an amazing transition, losing 36 kg in under
+        a year. He also is an upcoming father, and an only one currently.</item>
+        <item>TBJZL, full nameTobit John Brown, is a Nigerian youtuber, streamer, singer and internet
+        personality. He gained his popularity when joining the sidemen, and from there he started recording
+        and streaming almost every day on his YouTube channel and also got into the music industry.
+        He is a very modest person, and he likes to keep his personal life really private, unlike
+        the other sidemen members.</item>
+        <item>Zerkaa, full name Joshua Charlie Joseph Bradley, is a English youtuber and streamer.
+        He gained his popularity from recording Grand Theft Auto role play videos, and grew even
+        more when joining the sidemen group. He is also a modest person, and doesn't like to brag
+        about his success nor his wealth.</item>
+        <item>Vikkstar, full name Vikram Singh Barn, is a Indian youtuber, streamer and entrepreneur.
+        He gained his popularity from playing a popular video game called Minecraft, and later
+        invested his money and bought a couple of Minecraft Servers, which he owns to this day and
+        earns a lot from them. He also invested his money in several businesses and crypto, and is
+        rumored to be the richest of the sidemen group</item>
+    </string-array>

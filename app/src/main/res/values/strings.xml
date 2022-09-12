@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grand Theft Auto Biographies</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+
+    <string name="titleReg">Register new user</string>
+    <string name="emailReg">Enter new E-mail</string>
+    <string name="passwordReg">Enter new password</string>
+    <string name="passwordConfirmReg">Confirm password</string>
+    <string name="backButton">Back</string>
+
+    <string name="character_name">Toni Cipriani</string>
+    <string name="character_game">GTA Liberty City Stories</string>
+    <string name="character_description">Toni is in some ways similar to Tommy Vercetti, and his behavior in scenes of the game suggest that he is very loyal, but very easy to irritate (of course, this may be in part of that he is surrounded by such strange people, for instance, Maria Latore, Joseph Daniel OToole and Donald Love). When enraged, Toni is capable of practicing extremely violent acts (like using an axe to kill Giovanni Casa and cut his body into small pieces), but he also seems to feel remorseful at times (like when he goes to the Cathedral to make a confession). However, like many other GTA protagonists, he too shows very little hesitation in killing anyone standing in his way and occasionally mocks them. Toni also believes that people should show proper respect to their parents, as seen in the mission Hot Wheels, when he berates Vincenzo Cilli for receiving oral sex from a prostitute named Cheryl while talking to his mother, and how he desperately tries to please his mother.</string>
+    <string name="character_share">Share</string>
+</resources>

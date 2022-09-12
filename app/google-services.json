@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89709087135",
+    "project_id": "fragmentiplese",
+    "storage_bucket": "fragmentiplese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89709087135:android:cc26fe1eec77a3ec2b15aa",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.fragmentiplese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89709087135-rfm1om8iphpmc5srmtmk2dbootu2hsit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLFUMdz6jd_8XUkv37lyPS_8j1H0axyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89709087135-rfm1om8iphpmc5srmtmk2dbootu2hsit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
